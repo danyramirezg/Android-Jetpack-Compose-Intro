@@ -16,6 +16,7 @@ In this repo you could find examples of the different components in Jetpack Comp
 - AlertDialog
 
 ### Other Components (Those aren´t in this project):
+
     - Card
     - Surface
     - BadgeBox
